@@ -1,0 +1,1 @@
+from triangle_circle_square.square import *
